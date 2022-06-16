@@ -1,3 +1,3 @@
 #!/bin/bash
 touch manoja
-ls -lt
+ls -ltr
