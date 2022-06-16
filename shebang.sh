@@ -1,3 +1,3 @@
-#!/bin/python
+#!/bin/bash
 touch manoja
 ls -lt
